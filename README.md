@@ -1,3 +1,8 @@
+源文件：https://github.com/fuaolshi/Neural-Networks-and-DL-Final
+
+权重文件：链接：https://pan.baidu.com/s/1RSyFYYjvHge6zEzqYNUq0w?pwd=m773 
+提取码：m773 
+
 # Task01
 
 对比监督学习和自监督学习在图像分类任务上的性能表现
